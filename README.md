@@ -17,7 +17,7 @@ Users should be able to view the optimal layout for the section depending on the
 ### Links
 
 - Solution URL: https://github.com/delfinjfb/four-card-feature-section
-- Live Site URL: LIVE_URL
+- Live Site URL: https://four-card-feature-section-gamma-seven.vercel.app
 
 ## My process
 
